@@ -1,2 +1,2 @@
-# suketu-deliwala.github.com
+# suketu-deliwala.github.io
 A Contact form Project
